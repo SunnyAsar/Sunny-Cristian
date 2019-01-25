@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+
+  }
+  
+  #main {
+    background-color: #F0F0F0;
+    margin: 30px 10px;
+    box-sizing: border-box;
+    min-height: 100vh;
+    padding: 10px;
+  }
+  
+  #title {
+    text-align: center;
+    padding-top: 30px;
+  }
+  
+  #main .sub-title {
+    text-align: center;
+    font-weight: lighter;
+  }
+  
+  #img-div {
+    background-color: #fff;
+    padding: 2px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+  
+  #tribute-info {
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  
+  
